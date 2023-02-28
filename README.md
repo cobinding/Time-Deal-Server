@@ -4,7 +4,14 @@
 
 **타임딜 서버** : 구매 가능한 시간에만 상품 구매 가능 & Sold Out 
 
-## [API 설계]
+## [Tools] 
+- Java
+- Spring Boot
+- Github Actions
+- AWS CodeDeploy, EC2
+- MySQL
+
+## [API]
 
 1. 상품 정보 
 
